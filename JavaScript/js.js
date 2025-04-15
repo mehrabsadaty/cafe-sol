@@ -19,7 +19,7 @@ function handelclick(idname){
         button.flag = true;
     }
 }
-let ids = ["shak", "summer"];
+let ids = [ ];
 
 ids.forEach(id => {
     let element = document.getElementById(id);
